@@ -20,11 +20,7 @@ Thumbs.db
 .DS_Store
 
 # Large data & outputs
-outputs/
-data/processed/
-logs/
-logs_improved/
-eda/
+
 
 # Models (if large)
 models/finbert_finetuned/
