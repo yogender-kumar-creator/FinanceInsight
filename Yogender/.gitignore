@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Large data & outputs
+
+
+# Models (if large)
+models/finbert_finetuned/
+models/finbert_improved/
+
+# Docker
+*.tar
+*.img
+docker-desktop-data/
+docker/
+
+# Streamlit cache
+.streamlit/
+
+# CSVs created during processing
+*extracted*.csv
+*verified*.csv
+evaluation_summary.json

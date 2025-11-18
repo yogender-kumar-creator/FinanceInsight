@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+pdfplumber
+pymupdf
+torch
+transformers
+scikit-learn
+imblearn
+wordcloud

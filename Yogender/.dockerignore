@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+logs/
+logs_improved/
+data/
+sample_reports/
+FinancialPhraseBank/
+models/
+.git/

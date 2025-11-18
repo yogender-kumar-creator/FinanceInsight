@@ -1,0 +1,12 @@
+{
+  "pdf": "A:\\Infosys\\sample_reports\\10K_sample.pdf",
+  "sections": {
+    "Risk Factors": [
+      {
+        "start_page": 0,
+        "end_page": 0,
+        "text_path": "A:\\Infosys\\outputs\\doc_segments\\Risk_Factors\\10K_sample.pdf_0-0.txt"
+      }
+    ]
+  }
+}
